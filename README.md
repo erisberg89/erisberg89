@@ -108,3 +108,28 @@ http://lb.kstream.org/aovivo/HD_CARTOON_NETWORK/video.m3u8?token=395e3d96b0e8c9f
 http://lb.kstream.org/aovivo/HD_CARTOON_NETWORK_ALTER/video.m3u8?token=395e3d96b0e8c9f54235cbc0cfe129e9
 #EXTINF: -1 type = "stream" tvg-id = "Cinemax" tvg-logo = "https://i.ibb.co/qCx1SLY/cinemax.png" group-title = "Filme e Serie", Cinemax
 http://lb.kstream.org/aovivo/SD_CINEMAX/video.m3u8?token=395e3d96b0e8c9f54235cbc0cfe129e9
+#EXTINF: -1 type = "stream" tvg-id = "Cinemax FHD" tvg-logo = "https://i.ibb.co/qCx1SLY/cinemax.png" group-title = "Filme e Serie", Cinemax FHD
+http://lb.kstream.org/aovivo/FHD_CINEMAX/video.m3u8?token=395e3d96b0e8c9f54235cbc0cfe129e9
+#EXTINF: -1 type = "stream" tvg-id = "Cinemax HD" tvg-logo = "https://i.ibb.co/qCx1SLY/cinemax.png" group-title = "Filme e Serie", Cinemax HD
+http://lb.kstream.org/aovivo/HD_CINEMAX/video.m3u8?token=395e3d96b0e8c9f54235cbc0cfe129e9
+#EXTINF: -1 type = "stream" tvg-id = "Cinemax HD [Alter]" tvg-logo = "https://i.ibb.co/qCx1SLY/cinemax.png" group-title = "Filme e Serie ", Cinemax HD [Alter]
+http://lb.kstream.org/aovivo/HD_CINEMAX_ALTER/video.m3u8?token=395e3d96b0e8c9f54235cbc0cfe129e9
+#EXTINF: -1 type = "stream" tvg-id = "Combate" tvg-logo = "https://i.ibb.co/HzWqMFR/combate.png" group-title = "Esporte", Combate
+http://lb.kstream.org/aovivo/SD_COMBATE/video.m3u8?token=395e3d96b0e8c9f54235cbc0cfe129e9
+#EXTINF: -1 type = "stream" tvg-id = "Combate FHD" tvg-logo = "https://i.ibb.co/HzWqMFR/combate.png" group-title = "Esporte", Combate FHD
+http://lb.kstream.org/aovivo/FHD_COMBATE/video.m3u8?token=395e3d96b0e8c9f54235cbc0cfe129e9
+#EXTINF: -1 type = "stream" tvg-id = "Combate HD" tvg-logo = "https://i.ibb.co/HzWqMFR/combate.png" group-title = "Esporte", Combate HD
+http://lb.kstream.org/aovivo/HD_COMBATE/video.m3u8?token=395e3d96b0e8c9f54235cbc0cfe129e9
+#EXTINF: -1 type = "stream" tvg-id = "Combate HD [Alter]" tvg-logo = "https://i.ibb.co/HzWqMFR/combate.png" group-title = "Esporte", Combate HD [Alter]
+http://lb.kstream.org/aovivo/HD_COMBATE_ALTER/video.m3u8?token=395e3d96b0e8c9f54235cbc0cfe129e9
+#EXTINF: -1 type = "stream" tvg-id = "Comedy Central" tvg-logo = "https://i.ibb.co/Jxy45YQ/comedycentralb.png" group-title = "Filme e Serie", Comédia Central
+http://lb.kstream.org/aovivo/SD_COMEDY_CENTRAL/video.m3u8?token=395e3d96b0e8c9f54235cbc0cfe129e9
+#EXTINF: -1 type = "stream" tvg-id = "Comedy Central FHD" tvg-logo = "https://i.ibb.co/Jxy45YQ/comedycentralb.png" group-title = "Entretenimento", Comedy Central FHD
+http://lb.kstream.org/aovivo/FHD_COMEDY_CENTRAL/video.m3u8?token=395e3d96b0e8c9f54235cbc0cfe129e9
+#EXTINF: -1 type = "stream" tvg-id = "Comedy Central HD" tvg-logo = "https://i.ibb.co/Jxy45YQ/comedycentralb.png" group-title = "Variedade e Musica", Comedy Central HD
+http://lb.kstream.org/aovivo/HD_COMEDY_CENTRAL/video.m3u8?token=395e3d96b0e8c9f54235cbc0cfe129e9
+#EXTINF: -1 type = "stream" tvg-id = "Comedy Central HD [Alter]" tvg-logo = "https://i.ibb.co/Jxy45YQ/comedycentralb.png" group-title = "Variedade e Musica ", Comedy Central HD [Alter]
+http://lb.kstream.org/aovivo/HD_COMEDY_CENTRAL_ALTER/video.m3u8?token=395e3d96b0e8c9f54235cbc0cfe129e9
+#EXTINF: -1 type = "stream" tvg-id = "Cultura" tvg-logo = "https://i.ibb.co/CvvkxnR/tvcultura.png" group-title = "TV Aberta", Cultura
+http://lb.kstream.org/aovivo/SD_TV_CULTURA/video.m3u8?token=395e3d96b0e8c9f54235cbc0cfe129e9
+#EXTINF: -1 type = "stream" tvg-id = "Cultura HD" tvg-
