@@ -132,4 +132,48 @@ http://lb.kstream.org/aovivo/HD_COMEDY_CENTRAL/video.m3u8?token=395e3d96b0e8c9f5
 http://lb.kstream.org/aovivo/HD_COMEDY_CENTRAL_ALTER/video.m3u8?token=395e3d96b0e8c9f54235cbc0cfe129e9
 #EXTINF: -1 type = "stream" tvg-id = "Cultura" tvg-logo = "https://i.ibb.co/CvvkxnR/tvcultura.png" group-title = "TV Aberta", Cultura
 http://lb.kstream.org/aovivo/SD_TV_CULTURA/video.m3u8?token=395e3d96b0e8c9f54235cbc0cfe129e9
-#EXTINF: -1 type = "stream" tvg-id = "Cultura HD" tvg-
+
+#EXTINF: -1 type = "stream" tvg-id = "Cultura HD" tvg-logo = "https://i.ibb.co/CvvkxnR/tvcultura.png" group-title = "TV Aberta", Cultura HD
+http://lb.kstream.org/aovivo/HD_CULTURA/video.m3u8?token=395e3d96b0e8c9f54235cbc0cfe129e9
+#EXTINF: -1 type = "stream" tvg-id = "Curta HD [Alter]" tvg-logo = "https://i.ibb.co/YRKtq0s/curta.png" group-title = "Variedade", Curta HD [Alter]
+http://lb.kstream.org/aovivo/HD_CURTA_ALTER/video.m3u8?token=395e3d96b0e8c9f54235cbc0cfe129e9
+#EXTINF: -1 type = "stream" tvg-id = "Curta!" tvg-logo = "https://i.ibb.co/YRKtq0s/curta.png" group-title = "Variedade", Curta!
+http://lb.kstream.org/aovivo/SD_CURTA/video.m3u8?token=395e3d96b0e8c9f54235cbc0cfe129e9
+#EXTINF: -1 type = "stream" tvg-id = "Curta! HD" tvg-logo = "https://i.ibb.co/YRKtq0s/curta.png" group-title = "Variedade", Curta! HD
+http://lb.kstream.org/aovivo/HD_CURTA/video.m3u8?token=395e3d96b0e8c9f54235cbc0cfe129e9
+#EXTINF: -1 type = "stream" tvg-id = "DAZN 1 HD" tvg-logo = "https://i.ibb.co/gWQzZk8/dazn.jpg" group-title = "Esporte", DAZN 1 HD
+http://lb.kstream.org/aovivo/HD_DAZN_1/video.m3u8?token=395e3d96b0e8c9f54235cbc0cfe129e9
+#EXTINF: -1 type = "stream" tvg-id = "Discovery Channel" tvg-logo = "https://i.ibb.co/8x3TjWH/discoverychannelb.png" group-title = "Documentário", Discovery Channel
+http://lb.kstream.org/aovivo/SD_DISCOVERY/video.m3u8?token=395e3d96b0e8c9f54235cbc0cfe129e9
+#EXTINF: -1 type = "stream" tvg-id = "Discovery Channel FHD" tvg-logo = "https://i.ibb.co/8x3TjWH/discoverychannelb.png" group-title = "Documentário", Discovery Channel FHD 
+http://lb.kstream.org/aovivo/FHD_DISCOVERY/video.m3u8?token=395e3d96b0e8c9f54235cbc0cfe129e9
+#EXTINF: -1 type = "stream" tvg-id = "Discovery Channel HD" tvg-logo = "https://i.ibb.co/8x3TjWH/discoverychannelb.png" group-title = "Documentário", Discovery Channel HD
+http://lb.kstream.org/aovivo/HD_DISCOVERY/video.m3u8?token=395e3d96b0e8c9f54235cbc0cfe129e9
+#EXTINF: -1 type = "stream" tvg-id = "Discovery Channel HD [Alter]" tvg-logo = "https://i.ibb.co/8x3TjWH/discoverychannelb.png" group-title = "Documentário" , Discovery Channel HD [Alter]
+http://lb.kstream.org/aovivo/HD_DISCOVERY_ALTER/video.m3u8?token=395e3d96b0e8c9f54235cbc0cfe129e9
+#EXTINF: -1 type = "stream" tvg-id = "Discovery Civilization" tvg-logo = "https://i.ibb.co/mcBYLpp/discoverycivilizationb.png" group-title = "Documentário", Discovery Civilization
+http://lb.kstream.org/aovivo/SD_DISCOVERY_CIVILIZATION/video.m3u8?token=395e3d96b0e8c9f54235cbc0cfe129e9
+#EXTINF: -1 type = "stream" tvg-id = "Discovery Civilization FHD" tvg-logo = "https://i.ibb.co/mcBYLpp/discoverycivilizationb.png" group-title = "Documentário", Discovery Civilization FHD
+http://lb.kstream.org/aovivo/FHD_DISCOVERY_CIVILIZATION/video.m3u8?token=395e3d96b0e8c9f54235cbc0cfe129e9
+#EXTINF: -1 type = "stream" tvg-id = "Discovery Civilization HD" tvg-logo = "https://i.ibb.co/mcBYLpp/discoverycivilizationb.png" group-title = "Documentário", Discovery Civilization HD
+http://lb.kstream.org/aovivo/HD_DISCOVERY_CIVILIZATION/video.m3u8?token=395e3d96b0e8c9f54235cbc0cfe129e9
+#EXTINF: -1 type = "stream" tvg-id = "Discovery Civilization HD [Alter]" tvg-logo = "https://i.ibb.co/mcBYLpp/discoverycivilizationb.png" group-title = "Documentário" , Discovery Civilization HD [Alter]
+http://lb.kstream.org/aovivo/HD_DISCOVERY_CIVILIZATION_ALTER/video.m3u8?token=395e3d96b0e8c9f54235cbc0cfe129e9
+#EXTINF: -1 type = "stream" tvg-id = "Discovery Home & Health" tvg-logo = "https://i.ibb.co/dcxPbWL/discoveryhomeandhealth.png" group-title = "Variedade", Discovery Saúde doméstica
+http://lb.kstream.org/aovivo/SD_DISCOVERY_HOMEHEALTH/video.m3u8?token=395e3d96b0e8c9f54235cbc0cfe129e9
+#EXTINF: -1 type = "stream" tvg-id = "Discovery Home & Health FHD" tvg-logo = "https://i.ibb.co/dcxPbWL/discoveryhomeandhealth.png" group-title = "Variedade", Discovery Home & Health FHD
+http://lb.kstream.org/aovivo/FHD_DISCOVERY_HOMEHEALTH/video.m3u8?token=395e3d96b0e8c9f54235cbc0cfe129e9
+#EXTINF: -1 type = "stream" tvg-id = "Discovery Home & Health HD" tvg-logo = "https://i.ibb.co/dcxPbWL/discoveryhomeandhealth.png" group-title = "Variedade", Discovery Home & Health HD
+http://lb.kstream.org/aovivo/HD_DISCOVERY_HOMEHEALTH/video.m3u8?token=395e3d96b0e8c9f54235cbc0cfe129e9
+#EXTINF: -1 type = "stream" tvg-id = "Discovery Home & Health HD [Alter]" tvg-logo = "https://i.ibb.co/dcxPbWL/discoveryhomeandhealth.png" group-title = " Variedade ", Discovery Home & Health HD [Alter]
+http://lb.kstream.org/aovivo/HD_DISCOVERY_HOMEHEALTH_ALTER/video.m3u8?token=395e3d96b0e8c9f54235cbc0cfe129e9
+#EXTINF: -1 type = "stream" tvg-id = "Discovery Kids" tvg-logo = "https://i.ibb.co/bJnfyPZ/discoverykids.png" group-title = "Infantil", Discovery Kids
+http://lb.kstream.org/aovivo/SD_DISCOVERY_KIDS/video.m3u8?token=395e3d96b0e8c9f54235cbc0cfe129e9
+#EXTINF: -1 type = "stream" tvg-id = "Discovery Kids FHD" tvg-logo = "https://i.ibb.co/R0QGz7q/discoverykidshd.png" group-title = "Infantil", Discovery Kids FHD
+http://lb.kstream.org/aovivo/FHD_DISCOVERY_KIDS/video.m3u8?token=395e3d96b0e8c9f54235cbc0cfe129e9
+#EXTINF: -1 type = "stream" tvg-id = "Discovery Kids HD" tvg-logo = "https://i.ibb.co/bJnfyPZ/discoverykids.png" group-title = "Infantil", Discovery Kids HD
+http://lb.kstream.org/aovivo/HD_DISCOVERY_KIDS/video.m3u8?token=395e3d96b0e8c9f54235cbc0cfe129e9
+#EXTINF: -1 type = "stream" tvg-id = "Discovery Kids HD [Alter]" tvg-logo = "https://i.ibb.co/bJnfyPZ/discoverykids.png" group-title = "Infantil" , Discovery Kids HD [Alter]
+http://lb.kstream.org/aovivo/HD_DISCOVERY_KIDS_ALTER/video.m3u8?token=395e3d96b0e8c9f54235cbc0cfe129e9
+#EXTINF: -1 type = "stream" tvg-id = "Discovery Science" tvg-logo = "https://i.ibb.co/cJwdX8C/discoveryscienceb.png" group-title = "Documentário", Discovery Science
+http://lb.kstream.org/aovivo/SD_DISCOVERY_SCIENCE/video.m3u8?token=395e3d96b0e8c9f54235cbc0cfe129e9
