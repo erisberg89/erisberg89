@@ -177,3 +177,43 @@ http://lb.kstream.org/aovivo/HD_DISCOVERY_KIDS/video.m3u8?token=395e3d96b0e8c9f5
 http://lb.kstream.org/aovivo/HD_DISCOVERY_KIDS_ALTER/video.m3u8?token=395e3d96b0e8c9f54235cbc0cfe129e9
 #EXTINF: -1 type = "stream" tvg-id = "Discovery Science" tvg-logo = "https://i.ibb.co/cJwdX8C/discoveryscienceb.png" group-title = "Documentário", Discovery Science
 http://lb.kstream.org/aovivo/SD_DISCOVERY_SCIENCE/video.m3u8?token=395e3d96b0e8c9f54235cbc0cfe129e9
+#EXTINF: -1 type = "stream" tvg-id = "Discovery Theatre" tvg-logo = "https://i.ibb.co/z2JDsg0/discoverytheater.png" group-title = "Documentário", Discovery Theatre
+http://lb.kstream.org/aovivo/SD_DISCOVERY_THEATER/video.m3u8?token=395e3d96b0e8c9f54235cbc0cfe129e9
+#EXTINF: -1 type = "stream" tvg-id = "Discovery Theatre FHD" tvg-logo = "https://i.ibb.co/z2JDsg0/discoverytheater.png" group-title = "Documentário", Discovery Theatre FHD
+http://lb.kstream.org/aovivo/FHD_DISCOVERY_THEATER/video.m3u8?token=395e3d96b0e8c9f54235cbc0cfe129e9
+#EXTINF: -1 type = "stream" tvg-id = "Discovery Theatre HD" tvg-logo = "https://i.ibb.co/z2JDsg0/discoverytheater.png" group-title = "Documentário", Discovery Theatre HD
+http://lb.kstream.org/aovivo/HD_DISCOVERY_THEATER/video.m3u8?token=395e3d96b0e8c9f54235cbc0cfe129e9
+#EXTINF: -1 type = "stream" tvg-id = "Discovery Theatre HD [Alter]" tvg-logo = "https://i.ibb.co/z2JDsg0/discoverytheater.png" group-title = "Documentário" , Discovery Theatre HD [Alter]
+http://lb.kstream.org/aovivo/HD_DISCOVERY_THEATER_ALTER/video.m3u8?token=395e3d96b0e8c9f54235cbc0cfe129e9
+#EXTINF: -1 type = "stream" tvg-id = "Discovery Turbo" tvg-logo = "https://i.ibb.co/LkFmVss/discoveryturbob.png" group-title = "Documentário", Discovery Turbo
+http://lb.kstream.org/aovivo/SD_DISCOVERY_TURBO/video.m3u8?token=395e3d96b0e8c9f54235cbc0cfe129e9
+#EXTINF: -1 type = "stream" tvg-id = "Discovery Turbo FHD" tvg-logo = "https://i.ibb.co/LkFmVss/discoveryturbob.png" group-title = "Documentário", Discovery Turbo FHD
+http://lb.kstream.org/aovivo/FHD_DISCOVERY_TURBO/video.m3u8?token=395e3d96b0e8c9f54235cbc0cfe129e9
+#EXTINF: -1 type = "stream" tvg-id = "Discovery Turbo HD" tvg-logo = "https://i.ibb.co/LkFmVss/discoveryturbob.png" group-title = "Documentário", Discovery Turbo HD
+http://lb.kstream.org/aovivo/HD_DISCOVERY_TURBO/video.m3u8?token=395e3d96b0e8c9f54235cbc0cfe129e9
+#EXTINF: -1 type = "stream" tvg-id = "Discovery Turbo HD [Alter]" tvg-logo = "https://i.ibb.co/LkFmVss/discoveryturbob.png" group-title = "Documentário" , Discovery Turbo HD [Alter]
+http://lb.kstream.org/aovivo/HD_DISCOVERY_TURBO_ALTER/video.m3u8?token=395e3d96b0e8c9f54235cbc0cfe129e9
+#EXTINF: -1 type = "stream" tvg-id = "Discovery World" tvg-logo = "https://i.ibb.co/yYCzY9k/discoveryworld.png" group-title = "Documentário", Discovery World
+http://lb.kstream.org/aovivo/SD_DISCOVERY_WORLD/video.m3u8?token=395e3d96b0e8c9f54235cbc0cfe129e9
+#EXTINF: -1 type = "stream" tvg-id = "Discovery World FHD" tvg-logo = "https://i.ibb.co/yYCzY9k/discoveryworld.png" group-title = "Documentário", Discovery World FHD
+http://lb.kstream.org/aovivo/FHD_DISCOVERY_WORLD/video.m3u8?token=395e3d96b0e8c9f54235cbc0cfe129e9
+#EXTINF: -1 type = "stream" tvg-id = "Discovery World HD" tvg-logo = "https://i.ibb.co/yYCzY9k/discoveryworld.png" group-title = "Documentário", Discovery World HD
+http://lb.kstream.org/aovivo/HD_DISCOVERY_WORLD/video.m3u8?token=395e3d96b0e8c9f54235cbc0cfe129e9
+#EXTINF: -1 type = "stream" tvg-id = "Discovery World HD [Alter]" tvg-logo = "https://i.ibb.co/yYCzY9k/discoveryworld.png" group-title = "Documentário" , Discovery World HD [Alter]
+http://lb.kstream.org/aovivo/HD_DISCOVERY_WORLD_ALTER/video.m3u8?token=395e3d96b0e8c9f54235cbc0cfe129e9
+#EXTINF: -1 type = "stream" tvg-id = "Disney Channel" tvg-logo = "https://i.ibb.co/k1mR5zz/disney.png" group-title = "Infantil", Disney Channel
+http://lb.kstream.org/aovivo/SD_DISNEY/video.m3u8?token=395e3d96b0e8c9f54235cbc0cfe129e9
+#EXTINF: -1 type = "stream" tvg-id = "Disney Channel FHD" tvg-logo = "https://i.ibb.co/2NTFC8F/disneyhd.png" group-title = "Infantil", Disney Channel FHD
+http://lb.kstream.org/aovivo/FHD_DISNEY/video.m3u8?token=395e3d96b0e8c9f54235cbc0cfe129e9
+#EXTINF: -1 type = "stream" tvg-id = "Disney Channel HD" tvg-logo = "https://i.ibb.co/k1mR5zz/disney.png" group-title = "Infantil", Disney Channel HD
+http://lb.kstream.org/aovivo/HD_DISNEY/video.m3u8?token=395e3d96b0e8c9f54235cbc0cfe129e9
+#EXTINF: -1 type = "stream" tvg-id = "Disney Channel HD [Alter]" tvg-logo = "https://i.ibb.co/k1mR5zz/disney.png" group-title = "Infantil" , Disney Channel HD [Alter]
+http://lb.kstream.org/aovivo/HD_DISNEY_ALTER/video.m3u8?token=395e3d96b0e8c9f54235cbc0cfe129e9
+#EXTINF: -1 type = "stream" tvg-id = "Disney JR" tvg-logo = "https://i.ibb.co/0MBKmFY/disneyjuniorb.png" group-title = "Infantil", Disney JR
+http://lb.kstream.org/aovivo/SD_DISNEY_JR/video.m3u8?token=395e3d96b0e8c9f54235cbc0cfe129e9
+#EXTINF: -1 type = "stream" tvg-id = "Disney JR FHD" tvg-logo = "https://i.ibb.co/0MBKmFY/disneyjuniorb.png" group-title = "Infantil", Disney JR FHD
+http://lb.kstream.org/aovivo/FHD_DISNEY_JUNIOR/video.m3u8?token=395e3d96b0e8c9f54235cbc0cfe129e9
+#EXTINF: -1 type = "stream" tvg-id = "Disney JR HD" tvg-logo = "https://i.ibb.co/0MBKmFY/disneyjuniorb.png" group-title = "Infantil", Disney JR HD
+http://lb.kstream.org/aovivo/HD_DISNEY_JUNIOR/video.m3u8?token=395e3d96b0e8c9f54235cbc0cfe129e9
+#EXTINF: -1 type = "stream" tvg-id = "Disney JR HD [Alter]" tvg-logo = "https://i.ibb.co/0MBKmFY/disneyjuniorb.png" group-title = "Infantil" , Disney JR HD [Alter]
+http://lb.kstream.org/aovivo/HD_DISNEY_JUNIOR_ALTER/video.m3u8?token=395e3d96b0e8c9f54235cbc0cfe129e9
