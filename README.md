@@ -60,3 +60,51 @@ http://lb.kstream.org/aovivo/HD_BAND_CAMPINAS/video.m3u8?token=395e3d96b0e8c9f54
 http://lb.kstream.org/aovivo/HD_BAND/video.m3u8?token=395e3d96b0e8c9f54235cbc0cfe129e9
 #EXTINF: -1 type = "stream" tvg-id = "Band News" tvg-logo = "https://i.ibb.co/tHgNtbw/bandnews.png" group-title = "Notícia", Band News
 http://lb.kstream.org/aovivo/SD_BAND_NEWS/video.m3u8?token=395e3d96b0e8c9f54235cbc0cfe129e9
+
+http://lb.kstream.org/aovivo/FHD_BAND_NEWS/video.m3u8?token=395e3d96b0e8c9f54235cbc0cfe129e9
+#EXTINF: -1 type = "stream" tvg-id = "Band News HD" tvg-logo = "https://i.ibb.co/tHgNtbw/bandnews.png" group-title = "Notícia", Band News HD
+http://lb.kstream.org/aovivo/HD_BAND_NEWS/video.m3u8?token=395e3d96b0e8c9f54235cbc0cfe129e9
+#EXTINF: -1 type = "stream" tvg-id = "Band News HD [Alter]" tvg-logo = "https://i.ibb.co/tHgNtbw/bandnews.png" group-title = "Notícia" , Band News HD [Alter]
+http://lb.kstream.org/aovivo/HD_BAND_NEWS_ALTER/video.m3u8?token=395e3d96b0e8c9f54235cbc0cfe129e9
+#EXTINF: -1 type = "stream" tvg-id = "Band SP" tvg-logo = "https://i.ibb.co/pWdRD7J/band.png" group-title = "TV Aberta", Band SP
+http://lb.kstream.org/aovivo/SD_BAND_SP/video.m3u8?token=395e3d96b0e8c9f54235cbc0cfe129e9
+#EXTINF: -1 type = "stream" tvg-id = "Band Sports" tvg-logo = "https://i.ibb.co/t8H0fk0/bandsports.png" group-title = "Esporte", Band Sports
+http://lb.kstream.org/aovivo/SD_BAND_SPORTS/video.m3u8?token=395e3d96b0e8c9f54235cbc0cfe129e9
+#EXTINF: -1 type = "stream" tvg-id = "Band Sports FHD" tvg-logo = "https://i.ibb.co/t8H0fk0/bandsports.png" group-title = "Esporte", Band Sports FHD
+http://lb.kstream.org/aovivo/FHD_BAND_SPORTS/video.m3u8?token=395e3d96b0e8c9f54235cbc0cfe129e9
+#EXTINF: -1 type = "stream" tvg-id = "Band Sports HD" tvg-logo = "https://i.ibb.co/t8H0fk0/bandsports.png" group-title = "Esporte", Band Sports HD
+http://lb.kstream.org/aovivo/HD_BAND_SPORTS/video.m3u8?token=395e3d96b0e8c9f54235cbc0cfe129e9
+#EXTINF: -1 type = "stream" tvg-id = "Band Sports HD [Alter]" tvg-logo = "https://i.ibb.co/t8H0fk0/bandsports.png" group-title = "Esporte" , Band Sports HD [Alter]
+http://lb.kstream.org/aovivo/HD_BAND_SPORTS_ALTER/video.m3u8?token=395e3d96b0e8c9f54235cbc0cfe129e9
+#EXTINF: -1 type = "stream" tvg-id = "Boomerang" tvg-logo = "https://i.ibb.co/4WsFbpW/boomerangb.png" group-title = "Infantil", Boomerang
+http://lb.kstream.org/aovivo/SD_BOOMERANG/video.m3u8?token=395e3d96b0e8c9f54235cbc0cfe129e9
+#EXTINF: -1 type = "stream" tvg-id = "Boomerang FHD" tvg-logo = "https://i.ibb.co/4WsFbpW/boomerangb.png" group-title = "Infantil", Boomerang FHD
+http://lb.kstream.org/aovivo/FHD_BOOMERANG/video.m3u8?token=395e3d96b0e8c9f54235cbc0cfe129e9
+#EXTINF: -1 type = "stream" tvg-id = "Boomerang HD" tvg-logo = "https://i.ibb.co/4WsFbpW/boomerangb.png" group-title = "Infantil", Boomerang HD
+http://lb.kstream.org/aovivo/HD_BOOMERANG/video.m3u8?token=395e3d96b0e8c9f54235cbc0cfe129e9
+#EXTINF: -1 type = "stream" tvg-id = "Boomerang HD [Alter]" tvg-logo = "https://i.ibb.co/4WsFbpW/boomerangb.png" group-title = "Infantil", Boomerang HD [Alter]
+http://lb.kstream.org/aovivo/HD_BOOMERANG_ALTER/video.m3u8?token=395e3d96b0e8c9f54235cbc0cfe129e9
+#EXTINF: -1 type = "stream" tvg-id = "CNN Internacional FHD" tvg-logo = "https://i.ibb.co/X4JhqpB/cnni.png" group-title = "Notícia e Internacional", CNN Internacional FHD
+http://lb.kstream.org/aovivo/FHD_CNN_INTERNACIONAL/video.m3u8?token=395e3d96b0e8c9f54235cbc0cfe129e9
+#EXTINF: -1 type = "stream" tvg-id = "CNN International HD" tvg-logo = "https://i.ibb.co/X4JhqpB/cnni.png" group-title = "Notícia e Internacional", CNN International HD
+http://lb.kstream.org/aovivo/SD_CNN_INTERNATIONAL/video.m3u8?token=395e3d96b0e8c9f54235cbc0cfe129e9
+#EXTINF: -1 type = "stream" tvg-id = "Canal Brasil" tvg-logo = "https://i.ibb.co/dGDgcDc/canalbrasilb.png" group-title = "Filme e Serie", Canal Brasil
+http://lb.kstream.org/aovivo/SD_CANAL_BRASIL/video.m3u8?token=395e3d96b0e8c9f54235cbc0cfe129e9
+#EXTINF: -1 type = "stream" tvg-id = "Canal Brasil HD" tvg-logo = "https://i.ibb.co/dGDgcDc/canalbrasilb.png" group-title = "Filme e Série", Canal Brasil HD
+http://lb.kstream.org/aovivo/HD_CANAL_BRASIL/video.m3u8?token=395e3d96b0e8c9f54235cbc0cfe129e9
+#EXTINF: -1 type = "stream" tvg-id = "Canal Brasil HD [Alter]" tvg-logo = "https://i.ibb.co/dGDgcDc/canalbrasilb.png" group-title = "Filme e Serie ", Canal Brasil HD [Alter]
+http://lb.kstream.org/aovivo/HD_CANAL_BRASIL_ALTER/video.m3u8?token=395e3d96b0e8c9f54235cbc0cfe129e9
+#EXTINF: -1 type = "stream" tvg-id = "Canal Rural" tvg-logo = "https://i.ibb.co/fxWk6Mh/canalruralb.png" group-title = "TV Aberta", Canal Rural
+http://lb.kstream.org/aovivo/SD_CANAL_RURAL/video.m3u8?token=395e3d96b0e8c9f54235cbc0cfe129e9
+#EXTINF: -1 type = "stream" tvg-id = "Cancao nova" tvg-logo = "https://i.ibb.co/4SW5kYN/tvcancaonova.png" group-title = "TV Aberta", Cancao nova
+http://lb.kstream.org/aovivo/SD_CANCAO_NOVA/video.m3u8?token=395e3d96b0e8c9f54235cbc0cfe129e9
+#EXTINF: -1 type = "stream" tvg-id = "Cartoon Network" tvg-logo = "https://i.ibb.co/r0mmt10/cartoonnetworkb.png" group-title = "Infantil", Cartoon Network
+http://lb.kstream.org/aovivo/SD_CARTOON_NETWORK/video.m3u8?token=395e3d96b0e8c9f54235cbc0cfe129e9
+#EXTINF: -1 type = "stream" tvg-id = "Cartoon Network FHD" tvg-logo = "https://i.ibb.co/r0mmt10/cartoonnetworkb.png" group-title = "Infantil", Cartoon Network FHD
+http://lb.kstream.org/aovivo/FHD_CARTOON_NETWORK/video.m3u8?token=395e3d96b0e8c9f54235cbc0cfe129e9
+#EXTINF: -1 type = "stream" tvg-id = "Cartoon Network HD" tvg-logo = "https://i.ibb.co/r0mmt10/cartoonnetworkb.png" group-title = "Infantil", Cartoon Network HD
+http://lb.kstream.org/aovivo/HD_CARTOON_NETWORK/video.m3u8?token=395e3d96b0e8c9f54235cbc0cfe129e9
+#EXTINF: -1 type = "stream" tvg-id = "Cartoon Network HD [Alter]" tvg-logo = "https://i.ibb.co/r0mmt10/cartoonnetworkb.png" group-title = "Infantil" , Cartoon Network HD [Alter]
+http://lb.kstream.org/aovivo/HD_CARTOON_NETWORK_ALTER/video.m3u8?token=395e3d96b0e8c9f54235cbc0cfe129e9
+#EXTINF: -1 type = "stream" tvg-id = "Cinemax" tvg-logo = "https://i.ibb.co/qCx1SLY/cinemax.png" group-title = "Filme e Serie", Cinemax
+http://lb.kstream.org/aovivo/SD_CINEMAX/video.m3u8?token=395e3d96b0e8c9f54235cbc0cfe129e9
