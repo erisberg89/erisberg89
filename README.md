@@ -349,3 +349,4 @@ http://lb.kstream.org/aovivo/SD_GLOBO_INTERTV_SERRA_MAR/video.m3u8?token=395e3d9
 http://lb.kstream.org/aovivo/SD_GLOBO_MINAS/video.m3u8?token=395e3d96b0e8c9f54235cbc0cfe129e9
 #EXTINF: -1 type = "stream" tvg-id = "Globo Minas FHD" tvg-logo = "https://i.ibb.co/frYrFNM/globo.png" group-title = "TV Aberta", Globo Minas FHD
 http://lb.kstream.org/aovivo/FHD_GLOBO_MG/video.m3u8?token=395e3d96b0e8c9f54235cbc0cfe129e9
+content://media/external/file/84662
