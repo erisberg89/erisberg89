@@ -530,8 +530,6 @@ http://lb.kstream.org/aovivo/FHD_OFF/video.m3u8?token=395e3d96b0e8c9f54235cbc0cf
 http://lb.kstream.org/aovivo/HD_OFF/video.m3u8?token=395e3d96b0e8c9f54235cbc0cfe129e9
 #EXTINF: -1 type = "stream" tvg-id = "Off HD [Alter]" tvg-logo = "https://i.ibb.co/J23V5yZ/canaloffb.png" group-title = "Variedade e Esporte ", Off HD [Alter]
 http://lb.kstream.org/aovivo/HD_OFF_ALTER/video.m3u8?token=395e3d96b0e8c9f54235cbc0cfe129e9
-#EXTINF: -1 type = "stream" tvg-id = "PORNEQ" tvg-logo = "https://porneq.com/uploads/porneq-logo-home-png554cf1a970e6d.png" group-title = "Adulto", PORNEQ
-http://lb.kstream.org/aovivo/XXX_PORNEQ/video.m3u8?token=395e3d96b0e8c9f54235cbc0cfe129e9
 #EXTINF: -1 type = "stream" tvg-id = "Paramount" tvg-logo = "https://i.ibb.co/D9Lc0JL/paramount.png" group-title = "Filme e Serie", Paramount
 http://lb.kstream.org/aovivo/SD_PARAMOUNT/video.m3u8?token=395e3d96b0e8c9f54235cbc0cfe129e9
 #EXTINF: -1 type = "stream" tvg-id = "Paramount FHD" tvg-logo = "https://i.ibb.co/D9Lc0JL/paramount.png" group-title = "Filme e Serie", Paramount FHD
