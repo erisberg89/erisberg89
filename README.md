@@ -282,3 +282,24 @@ http://lb.kstream.org/aovivo/FHD_FOOD_NETWORK/video.m3u8?token=395e3d96b0e8c9f54
 http://lb.kstream.org/aovivo/HD_FOOD_NETWORK/video.m3u8?token=395e3d96b0e8c9f54235cbc0cfe129e9
 #EXTINF: -1 type = "stream" tvg-id = "Food Network HD [Alter]" tvg-logo = "https://i.ibb.co/wS6TzSk/foodnetwork.png" group-title = "Variedade" , Food Network HD [Alter]
 http://lb.kstream.org/aovivo/HD_FOOD_NETWORK_ALTER/video.m3u8?token=395e3d96b0e8c9f54235cbc0cfe129e9
+http://lb.kstream.org/aovivo/FHD_FOX/video.m3u8?token=395e3d96b0e8c9f54235cbc0cfe129e9
+#EXTINF: -1 type = "stream" tvg-id = "Fox HD" tvg-logo = "https://i.ibb.co/zQwKGNk/foxchannel.png" group-title = "Filme e Serie", Fox HD
+http://lb.kstream.org/aovivo/HD_FOX/video.m3u8?token=395e3d96b0e8c9f54235cbc0cfe129e9
+#EXTINF: -1 type = "stream" tvg-id = "Fox HD [Alter]" tvg-logo = "https://i.ibb.co/zQwKGNk/foxchannel.png" group-title = "Filme e Serie ", Fox HD [Alter]
+http://lb.kstream.org/aovivo/HD_FOX_ALTER/video.m3u8?token=395e3d96b0e8c9f54235cbc0cfe129e9
+#EXTINF: -1 type = "stream" tvg-id = "Fox Life" tvg-logo = "https://i.ibb.co/Z6hgvP7/foxlifeb.png" group-title = "Variedade", Fox Life
+http://lb.kstream.org/aovivo/SD_FOX_LIFE/video.m3u8?token=395e3d96b0e8c9f54235cbc0cfe129e9
+#EXTINF: -1 type = "stream" tvg-id = "Fox Life FHD" tvg-logo = "https://i.ibb.co/Z6hgvP7/foxlifeb.png" group-title = "Entretenimento", Fox Life FHD
+http://lb.kstream.org/aovivo/FHD_FOX_LIFE/video.m3u8?token=395e3d96b0e8c9f54235cbc0cfe129e9
+#EXTINF: -1 type = "stream" tvg-id = "Fox Life HD" tvg-logo = "https://i.ibb.co/Z6hgvP7/foxlifeb.png" group-title = "Variedade", Fox Life HD
+http://lb.kstream.org/aovivo/HD_FOX_LIFE/video.m3u8?token=395e3d96b0e8c9f54235cbc0cfe129e9
+#EXTINF: -1 type = "stream" tvg-id = "Fox Life HD [Alter]" tvg-logo = "https://i.ibb.co/Z6hgvP7/foxlifeb.png" group-title = "Variedade" , Fox Life HD [Alter]
+http://lb.kstream.org/aovivo/HD_FOX_LIFE_ALTER/video.m3u8?token=395e3d96b0e8c9f54235cbc0cfe129e9
+#EXTINF: -1 type = "stream" tvg-id = "Fox Premium 1 HD" tvg-logo = "https://i.ibb.co/XJL7R7d/foxpremium1b.png" group-title = "Filme e Serie" , Fox Premium 1 HD
+http://lb.kstream.org/aovivo/HD_FOX_PREMIUM_1/video.m3u8?token=395e3d96b0e8c9f54235cbc0cfe129e9
+#EXTINF: -1 type = "stream" tvg-id = "Fox Premium 1 HD [Alter]" tvg-logo = "https://i.ibb.co/XJL7R7d/foxpremium1b.png" group-title = "Filme e Serie ", Fox Premium 1 HD [Alter]
+http://lb.kstream.org/aovivo/HD_FOX_PREMIUM_1_ALTER/video.m3u8?token=395e3d96b0e8c9f54235cbc0cfe129e9
+#EXTINF: -1 type = "stream" tvg-id = "Fox Premium 2 HD" tvg-logo = "https://i.ibb.co/ygC4V8r/foxpremium2b.png" group-title = "Filme e Serie" , Fox Premium 2 HD
+http://lb.kstream.org/aovivo/HD_FOX_PREMIUM_2/video.m3u8?token=395e3d96b0e8c9f54235cbc0cfe129e9
+#EXTINF: -1 type = "stream" tvg-id = "Fox Premium 2 HD [Alter]" tvg-logo = "https://i.ibb.co/ygC4V8r/foxpremium2b.png" group-title = "Filme e Serie ", Fox Premium 2 HD [Alter]
+http://lb.kstream.org/aovivo/HD_FOX_PREMIUM_2_ALTER/video.m3u8?token=395e3d96b0e8c9f54235cbc0cfe129e9
