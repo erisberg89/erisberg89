@@ -402,8 +402,6 @@ http://lb.kstream.org/aovivo/FHD_HBO_SIGNATURE/video.m3u8?token=395e3d96b0e8c9f5
 http://lb.kstream.org/aovivo/HD_HBO_SIGNATURE/video.m3u8?token=395e3d96b0e8c9f54235cbc0cfe129e9
 #EXTINF: -1 type = "stream" tvg-id = "HBO Signature HD [Alter]" tvg-logo = "https://i.ibb.co/bQp2cq4/hbosignatureb.png" group-title = "Filme e Serie ", HBO Signature HD [Alter]
 http://lb.kstream.org/aovivo/HD_HBO_SIGNATURE_ALTER/video.m3u8?token=395e3d96b0e8c9f54235cbc0cfe129e9
-#EXTINF: -1 type = "stream" tvg-id = "HUSTLER" tvg-logo = "https://upload.wikimedia.org/wikipedia/en/c/c0/HUSTLER_TV_HD.png" group-title = "Adulto ", HUSTLER
-http://lb.kstream.org/aovivo/XXX_HUSTLER/video.m3u8?token=395e3d96b0e8c9f54235cbc0cfe129e9
 #EXTINF: -1 type = "stream" tvg-id = "História" tvg-logo = "https://i.ibb.co/vXXFvMF/historyb.png" group-title = "Documentário", História
 http://lb.kstream.org/aovivo/SD_HISTORY/video.m3u8?token=395e3d96b0e8c9f54235cbc0cfe129e9
 #EXTINF: -1 type = "stream" tvg-id = "History 2" tvg-logo = "https://i.ibb.co/b6w6MWr/h2.png" group-title = "Filme e Serie", História 2
@@ -612,8 +610,6 @@ http://lb.kstream.org/aovivo/FHD_PRIMEBOX/video.m3u8?token=395e3d96b0e8c9f54235c
 http://lb.kstream.org/aovivo/HD_PRIVATE/video.m3u8?token=395e3d96b0e8c9f54235cbc0cfe129e9
 #EXTINF: -1 type = "stream" tvg-id = "RBI" tvg-logo = "http://2.bp.blogspot.com/-3cIo6Qut0C0/VFdFKBnuRCI/AAAAAAAAAvw/dW9n2GQ9-WY/s320/Canal%2BRBI % 2B-% 2BMIX% 2BTV.png "group-title =" TV Aberta ", RBI
 http://lb.kstream.org/aovivo/SD_RBI/video.m3u8?token=395e3d96b0e8c9f54235cbc0cfe129e9
-#EXTINF: -1 type = "stream" tvg-id = "REDLIGHT" tvg-logo = "https://i.ibb.co/6m9LJ8x/Red-Light-HD-630x355.png" group-title = "Adulto ",LUZ VERMELHA
-http://lb.kstream.org/aovivo/XXX_REDLIGHT/video.m3u8?token=395e3d96b0e8c9f54235cbc0cfe129e9
 #EXTINF: -1 type = "stream" tvg-id = "RIT" tvg-logo = "https://i.ibb.co/m41x063/rit.png" group-title = "TV Aberta", RIT
 http://lb.kstream.org/aovivo/SD_RIT/video.m3u8?token=395e3d96b0e8c9f54235cbc0cfe129e9
 #EXTINF: -1 type = "stream" tvg-id = "Gravar" tvg-logo = "https://i.ibb.co/NyZ0TgN/recordtv.png" group-title = "TV Aberta", Gravar
