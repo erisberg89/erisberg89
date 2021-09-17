@@ -350,3 +350,87 @@ http://lb.kstream.org/aovivo/SD_GLOBO_MINAS/video.m3u8?token=395e3d96b0e8c9f5423
 #EXTINF: -1 type = "stream" tvg-id = "Globo Minas FHD" tvg-logo = "https://i.ibb.co/frYrFNM/globo.png" group-title = "TV Aberta", Globo Minas FHD
 http://lb.kstream.org/aovivo/FHD_GLOBO_MG/video.m3u8?token=395e3d96b0e8c9f54235cbc0cfe129e9
 content://media/external/file/84662
+#EXTINF: -1 type = "stream" tvg-id = "Gloob HD [Alter]" tvg-logo = "https://i.ibb.co/MSnGHZL/gloob.png" group-title = "Infantil", Gloob HD [Alter]
+http://lb.kstream.org/aovivo/HD_GLOOB_ALTER/video.m3u8?token=395e3d96b0e8c9f54235cbc0cfe129e9
+#EXTINF: -1 type = "stream" tvg-id = "Gloobinho" tvg-logo = "https://i.ibb.co/sFRw5Rf/gloobinho.png" group-title = "Infantil", Gloobinho
+http://lb.kstream.org/aovivo/SD_GLOOBINHO/video.m3u8?token=395e3d96b0e8c9f54235cbc0cfe129e9
+#EXTINF: -1 type = "stream" tvg-id = "Gloobinho FHD" tvg-logo = "https://i.ibb.co/sFRw5Rf/gloobinho.png" group-title = "Infantil", Gloobinho FHD
+http://lb.kstream.org/aovivo/FHD_GLOOBINHO/video.m3u8?token=395e3d96b0e8c9f54235cbc0cfe129e9
+#EXTINF: -1 type = "stream" tvg-id = "Gloobinho HD" tvg-logo = "https://i.ibb.co/sFRw5Rf/gloobinho.png" group-title = "Infantil", Gloobinho HD
+http://lb.kstream.org/aovivo/HD_GLOOBINHO/video.m3u8?token=395e3d96b0e8c9f54235cbc0cfe129e9
+#EXTINF: -1 type = "stream" tvg-id = "HBO" tvg-logo = "https://i.ibb.co/7tz9V3n/hbo.png" group-title = "Filme e Serie", HBO
+http://lb.kstream.org/aovivo/SD_HBO/video.m3u8?token=395e3d96b0e8c9f54235cbc0cfe129e9
+#EXTINF: -1 type = "stream" tvg-id = "HBO 2" tvg-logo = "https://i.ibb.co/YBJqynj/hbo2b.png" group-title = "Filme e Serie", HBO 2
+http://lb.kstream.org/aovivo/SD_HBO_2/video.m3u8?token=395e3d96b0e8c9f54235cbc0cfe129e9
+#EXTINF: -1 type = "stream" tvg-id = "HBO 2 FHD" tvg-logo = "https://i.ibb.co/YBJqynj/hbo2b.png" group-title = "Filme e Serie", HBO 2 FHD
+http://lb.kstream.org/aovivo/FHD_HBO_2/video.m3u8?token=395e3d96b0e8c9f54235cbc0cfe129e9
+#EXTINF: -1 type = "stream" tvg-id = "HBO 2 HD" tvg-logo = "https://i.ibb.co/YBJqynj/hbo2b.png" group-title = "Filme e Serie", HBO 2 HD
+http://lb.kstream.org/aovivo/HD_HBO_2/video.m3u8?token=395e3d96b0e8c9f54235cbc0cfe129e9
+#EXTINF: -1 type = "stream" tvg-id = "HBO 2 HD [Alter]" tvg-logo = "https://i.ibb.co/YBJqynj/hbo2b.png" group-title = "Filme e Serie ", HBO 2 HD [Alter]
+http://lb.kstream.org/aovivo/HD_HBO_2_ALTER/video.m3u8?token=395e3d96b0e8c9f54235cbc0cfe129e9
+#EXTINF: -1 type = "stream" tvg-id = "HBO FHD" tvg-logo = "https://i.ibb.co/7tz9V3n/hbo.png" group-title = "Filme e Serie", HBO FHD
+http://lb.kstream.org/aovivo/FHD_HBO/video.m3u8?token=395e3d96b0e8c9f54235cbc0cfe129e9
+#EXTINF: -1 type = "stream" tvg-id = "Família HBO" tvg-logo = "https://i.ibb.co/kxNkVc1/hbofamily.png" group-title = "Filme e Serie", HBO Família
+http://lb.kstream.org/aovivo/SD_HBO_FAMILY/video.m3u8?token=395e3d96b0e8c9f54235cbc0cfe129e9
+#EXTINF: -1 type = "stream" tvg-id = "HBO Family FHD" tvg-logo = "https://i.ibb.co/kxNkVc1/hbofamily.png" group-title = "Filme e Serie", HBO Family FHD
+http://lb.kstream.org/aovivo/FHD_HBO_FAMILLY/video.m3u8?token=395e3d96b0e8c9f54235cbc0cfe129e9
+#EXTINF: -1 type = "stream" tvg-id = "HBO Family HD" tvg-logo = "https://i.ibb.co/kxNkVc1/hbofamily.png" group-title = "Filme e Serie", HBO Family HD
+http://lb.kstream.org/aovivo/HD_HBO_FAMILY/video.m3u8?token=395e3d96b0e8c9f54235cbc0cfe129e9
+#EXTINF: -1 type = "stream" tvg-id = "HBO Family HD [Alter]" tvg-logo = "https://i.ibb.co/kxNkVc1/hbofamily.png" group-title = "Filme e Serie ", HBO Family HD [Alter]
+http://lb.kstream.org/aovivo/HD_HBO_FAMILLY_ALTER/video.m3u8?token=395e3d96b0e8c9f54235cbc0cfe129e9
+#EXTINF: -1 type = "stream" tvg-id = "HBO HD" tvg-logo = "https://i.ibb.co/7tz9V3n/hbo.png" group-title = "Filme e Serie", HBO HD
+http://lb.kstream.org/aovivo/HD_HBO_1/video.m3u8?token=395e3d96b0e8c9f54235cbc0cfe129e9
+#EXTINF: -1 type = "stream" tvg-id = "HBO HD [Alter]" tvg-logo = "https://i.ibb.co/7tz9V3n/hbo.png" group-title = "Filme e Serie ", HBO HD [Alter]
+http://lb.kstream.org/aovivo/HD_HBO_ALTER/video.m3u8?token=395e3d96b0e8c9f54235cbc0cfe129e9
+#EXTINF: -1 type = "stream" tvg-id = "HBO Plus" tvg-logo = "https://i.ibb.co/JHzz2yN/hboplus.png" group-title = "Filme e Serie", HBO Mais
+http://lb.kstream.org/aovivo/SD_HBO_PLUS/video.m3u8?token=395e3d96b0e8c9f54235cbc0cfe129e9
+#EXTINF: -1 type = "stream" tvg-id = "HBO Plus FHD" tvg-logo = "https://i.ibb.co/JHzz2yN/hboplus.png" group-title = "Filme e Serie", HBO Plus FHD
+http://lb.kstream.org/aovivo/FHD_HBO_PLUS/video.m3u8?token=395e3d96b0e8c9f54235cbc0cfe129e9
+#EXTINF: -1 type = "stream" tvg-id = "HBO Plus HD" tvg-logo = "https://i.ibb.co/JHzz2yN/hboplus.png" group-title = "Filme e Serie", HBO Plus HD
+http://lb.kstream.org/aovivo/HD_HBO_PLUS/video.m3u8?token=395e3d96b0e8c9f54235cbc0cfe129e9
+#EXTINF: -1 type = "stream" tvg-id = "HBO Plus HD [Alter]" tvg-logo = "https://i.ibb.co/JHzz2yN/hboplus.png" group-title = "Filme e Serie ", HBO Plus HD [Alter]
+http://lb.kstream.org/aovivo/HD_HBO_PLUS_ALTER/video.m3u8?token=395e3d96b0e8c9f54235cbc0cfe129e9
+#EXTINF: -1 type = "stream" tvg-id = "HBO Plus * e" tvg-logo = "http://revenda.kudaplay.tv/tema/canais_logo/SD_HBO_PLUS_E.png" group-title = "Filme e Serie ", HBO Plus * e
+http://lb.kstream.org/aovivo/SD_HBO_PLUS_E/video.m3u8?token=395e3d96b0e8c9f54235cbc0cfe129e9
+#EXTINF: -1 type = "stream" tvg-id = "HBO Plus * e HD" tvg-logo = "http://revenda.kudaplay.tv/tema/canais_logo/SD_HBO_PLUS_E.png" group-title = "TV Aberta ", HBO Plus * e HD
+http://lb.kstream.org/aovivo/HD_HBO_PLUS_E/video.m3u8?token=395e3d96b0e8c9f54235cbc0cfe129e9
+#EXTINF: -1 type = "stream" tvg-id = "HBO Signature" tvg-logo = "https://i.ibb.co/bQp2cq4/hbosignatureb.png" group-title = "Filme e Serie", HBO Assinatura
+http://lb.kstream.org/aovivo/SD_HBO_SINGNATURE/video.m3u8?token=395e3d96b0e8c9f54235cbc0cfe129e9
+#EXTINF: -1 type = "stream" tvg-id = "HBO Signature FHD" tvg-logo = "https://i.ibb.co/bQp2cq4/hbosignatureb.png" group-title = "Filme e Serie", HBO Signature FHD
+http://lb.kstream.org/aovivo/FHD_HBO_SIGNATURE/video.m3u8?token=395e3d96b0e8c9f54235cbc0cfe129e9
+#EXTINF: -1 type = "stream" tvg-id = "HBO Signature HD" tvg-logo = "https://i.ibb.co/bQp2cq4/hbosignatureb.png" group-title = "Filme e Serie", HBO Signature HD
+http://lb.kstream.org/aovivo/HD_HBO_SIGNATURE/video.m3u8?token=395e3d96b0e8c9f54235cbc0cfe129e9
+#EXTINF: -1 type = "stream" tvg-id = "HBO Signature HD [Alter]" tvg-logo = "https://i.ibb.co/bQp2cq4/hbosignatureb.png" group-title = "Filme e Serie ", HBO Signature HD [Alter]
+http://lb.kstream.org/aovivo/HD_HBO_SIGNATURE_ALTER/video.m3u8?token=395e3d96b0e8c9f54235cbc0cfe129e9
+#EXTINF: -1 type = "stream" tvg-id = "HUSTLER" tvg-logo = "https://upload.wikimedia.org/wikipedia/en/c/c0/HUSTLER_TV_HD.png" group-title = "Adulto ", HUSTLER
+http://lb.kstream.org/aovivo/XXX_HUSTLER/video.m3u8?token=395e3d96b0e8c9f54235cbc0cfe129e9
+#EXTINF: -1 type = "stream" tvg-id = "História" tvg-logo = "https://i.ibb.co/vXXFvMF/historyb.png" group-title = "Documentário", História
+http://lb.kstream.org/aovivo/SD_HISTORY/video.m3u8?token=395e3d96b0e8c9f54235cbc0cfe129e9
+#EXTINF: -1 type = "stream" tvg-id = "History 2" tvg-logo = "https://i.ibb.co/b6w6MWr/h2.png" group-title = "Filme e Serie", História 2
+http://lb.kstream.org/aovivo/SD_H2/video.m3u8?token=395e3d96b0e8c9f54235cbc0cfe129e9
+#EXTINF: -1 type = "stream" tvg-id = "História 2 FHD" tvg-logo = "https://i.ibb.co/b6w6MWr/h2.png" group-title = "Documentário", História 2 FHD
+http://lb.kstream.org/aovivo/FHD_H2/video.m3u8?token=395e3d96b0e8c9f54235cbc0cfe129e9
+#EXTINF: -1 type = "stream" tvg-id = "History 2 HD" tvg-logo = "https://i.ibb.co/b6w6MWr/h2.png" group-title = "Documentário", História 2 HD
+http://lb.kstream.org/aovivo/HD_H2/video.m3u8?token=395e3d96b0e8c9f54235cbc0cfe129e9
+#EXTINF: -1 type = "stream" tvg-id = "History 2 HD [Alter]" tvg-logo = "https://i.ibb.co/b6w6MWr/h2.png" group-title = "Documentário" , History 2 HD [Alter]
+http://lb.kstream.org/aovivo/HD_H2_ALTER/video.m3u8?token=395e3d96b0e8c9f54235cbc0cfe129e9
+#EXTINF: -1 type = "stream" tvg-id = "History FHD" tvg-logo = "https://i.ibb.co/vXXFvMF/historyb.png" group-title = "Documentário", History FHD
+http://lb.kstream.org/aovivo/FHD_HISTORY/video.m3u8?token=395e3d96b0e8c9f54235cbc0cfe129e9
+#EXTINF: -1 type = "stream" tvg-id = "History HD" tvg-logo = "https://i.ibb.co/vXXFvMF/historyb.png" group-title = "Documentário", History HD
+http://lb.kstream.org/aovivo/HD_HISTORY/video.m3u8?token=395e3d96b0e8c9f54235cbc0cfe129e9
+#EXTINF: -1 type = "stream" tvg-id = "History HD [Alter]" tvg-logo = "https://i.ibb.co/vXXFvMF/historyb.png" group-title = "Documentário", History HD [Alter]
+http://lb.kstream.org/aovivo/HD_HISTORY_ALTER/video.m3u8?token=395e3d96b0e8c9f54235cbc0cfe129e9
+#EXTINF: -1 type = "stream" tvg-id = "I-Sat FHD" tvg-logo = "https://i.ibb.co/X74fJNy/isat.png" group-title = "Filme e Serie" , I-Sat FHD
+http://lb.kstream.org/aovivo/FHD_ISAT/video.m3u8?token=395e3d96b0e8c9f54235cbc0cfe129e9
+#EXTINF: -1 type = "stream" tvg-id = "I-Sat HD" tvg-logo = "https://i.ibb.co/X74fJNy/isat.png" group-title = "Filme e Serie" , I-Sat HD
+http://lb.kstream.org/aovivo/HD_ISAT/video.m3u8?token=395e3d96b0e8c9f54235cbc0cfe129e9
+#EXTINF: -1 type = "stream" tvg-id = "ID" tvg-logo = "https://i.ibb.co/GkCFcmY/investigationb.png" group-title = "Documentário", ID
+http://lb.kstream.org/aovivo/SD_DISCOVERY_INVESTIGATION/video.m3u8?token=395e3d96b0e8c9f54235cbc0cfe129e9
+#EXTINF: -1 type = "stream" tvg-id = "ID FHD" tvg-logo = "https://i.ibb.co/GkCFcmY/investigationb.png" group-title = "Documentário", ID FHD
+http://lb.kstream.org/aovivo/FHD_ID/video.m3u8?token=395e3d96b0e8c9f54235cbc0cfe129e9
+#EXTINF: -1 type = "stream" tvg-id = "ID HD" tvg-logo = "https://i.ibb.co/GkCFcmY/investigationb.png" group-title = "Documentário", ID HD
+http://lb.kstream.org/aovivo/HD_DISCOVERY_INVESTIGATION/video.m3u8?token=395e3d96b0e8c9f54235cbc0cfe129e9
+#EXTINF: -1 type = "stream" tvg-id = "ID HD [Alter]" tvg-logo = "https://i.ibb.co/GkCFcmY/investigationb.png" group-title = "Documentário", ID HD [Alter]
+http://lb.kstream.org/aovivo/HD_DISCOVERY_INVESTIGATION_ALTER/video.m3u8?token=395e3d96b0e8c9f54235cbc0cfe129e9
+#EXTINF: -1 type = "stream" tvg-id = "TV Ideal" tvg-logo = "https://i.ibb.co/NZHB3Bn/idealtv.png" group-title = "TV Aberta", TV Ideal
+http://lb.kstream.org/aovivo/SD_IDEALTV/video.m3u8?token=395e3d96b0e8c9f54235cbc0cfe129e9
