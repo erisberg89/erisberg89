@@ -546,3 +546,103 @@ http://lb.kstream.org/aovivo/HD_PARAMOUNT_ALTER/video.m3u8?token=395e3d96b0e8c9f
 http://lb.kstream.org/aovivo/SD_PLAY_TV/video.m3u8?token=395e3d96b0e8c9f54235cbc0cfe129e9
 #EXTINF: -1 type = "stream" tvg-id = "Play TV FHD" tvg-logo = "https://i.ibb.co/my6jxPJ/playtv.png" group-title = "Entretenimento e Música", Tocar TV FHD
 http://lb.kstream.org/aovivo/FHD_PLAYTV/video.m3u8?token=395e3d96b0e8c9f54235cbc0cfe129e9
+#EXTINF: -1 type = "stream" tvg-id = "Premiere 2" tvg-logo = "https://i.ibb.co/nb8dcZZ/premiere.png" group-title = "Esporte", Premiere 2
+http://lb.kstream.org/aovivo/SD_PFC_2/video.m3u8?token=395e3d96b0e8c9f54235cbc0cfe129e9
+#EXTINF: -1 type = "stream" tvg-id = "Premiere 2 FHD" tvg-logo = "https://i.ibb.co/nb8dcZZ/premiere.png" group-title = "Esporte", Premiere 2 FHD
+http://lb.kstream.org/aovivo/FHD_PFC_2/video.m3u8?token=395e3d96b0e8c9f54235cbc0cfe129e9
+#EXTINF: -1 type = "stream" tvg-id = "Premiere 2 HD" tvg-logo = "https://i.ibb.co/nb8dcZZ/premiere.png" group-title = "Esporte", Premiere 2 HD
+http://lb.kstream.org/aovivo/HD_PFC_2/video.m3u8?token=395e3d96b0e8c9f54235cbc0cfe129e9
+#EXTINF: -1 type = "stream" tvg-id = "Premiere 2 HD [Alter]" tvg-logo = "https://i.ibb.co/nb8dcZZ/premiere.png" group-title = "Esporte" , Premiere 2 HD [Alter]
+http://lb.kstream.org/aovivo/HD_PFC_2_ALTER/video.m3u8?token=395e3d96b0e8c9f54235cbc0cfe129e9
+#EXTINF: -1 type = "stream" tvg-id = "Premiere 3" tvg-logo = "https://i.ibb.co/nb8dcZZ/premiere.png" group-title = "Esporte", Premiere 3
+http://lb.kstream.org/aovivo/SD_PFC_3/video.m3u8?token=395e3d96b0e8c9f54235cbc0cfe129e9
+#EXTINF: -1 type = "stream" tvg-id = "Premiere 3 FHD" tvg-logo = "https://i.ibb.co/nb8dcZZ/premiere.png" group-title = "Esporte", Premiere 3 FHD
+http://lb.kstream.org/aovivo/FHD_PFC_3/video.m3u8?token=395e3d96b0e8c9f54235cbc0cfe129e9
+#EXTINF: -1 type = "stream" tvg-id = "Premiere 3 HD" tvg-logo = "https://i.ibb.co/nb8dcZZ/premiere.png" group-title = "Esporte", Premiere 3 HD
+http://lb.kstream.org/aovivo/HD_PFC_3/video.m3u8?token=395e3d96b0e8c9f54235cbc0cfe129e9
+#EXTINF: -1 type = "stream" tvg-id = "Premiere 3 HD [Alter]" tvg-logo = "https://i.ibb.co/nb8dcZZ/premiere.png" group-title = "Esporte" , Premiere 3 HD [Alter]
+http://lb.kstream.org/aovivo/HD_PFC_3_ALTER/video.m3u8?token=395e3d96b0e8c9f54235cbc0cfe129e9
+#EXTINF: -1 type = "stream" tvg-id = "Premiere 4" tvg-logo = "https://i.ibb.co/nb8dcZZ/premiere.png" group-title = "Esporte", Premiere 4
+http://lb.kstream.org/aovivo/SD_PFC_4/video.m3u8?token=395e3d96b0e8c9f54235cbc0cfe129e9
+#EXTINF: -1 type = "stream" tvg-id = "Premiere 4 FHD" tvg-logo = "https://i.ibb.co/nb8dcZZ/premiere.png" group-title = "Esporte", Premiere 4 FHD
+http://lb.kstream.org/aovivo/FHD_PFC_4/video.m3u8?token=395e3d96b0e8c9f54235cbc0cfe129e9
+#EXTINF: -1 type = "stream" tvg-id = "Premiere 4 HD" tvg-logo = "https://i.ibb.co/nb8dcZZ/premiere.png" group-title = "Esporte", Premiere 4 HD
+http://lb.kstream.org/aovivo/HD_PFC_4/video.m3u8?token=395e3d96b0e8c9f54235cbc0cfe129e9
+#EXTINF: -1 type = "stream" tvg-id = "Premiere 4 HD [Alter]" tvg-logo = "https://i.ibb.co/nb8dcZZ/premiere.png" group-title = "Esporte" , Premiere 4 HD [Alter]
+http://lb.kstream.org/aovivo/HD_PFC_4_ALTER/video.m3u8?token=395e3d96b0e8c9f54235cbc0cfe129e9
+#EXTINF: -1 type = "stream" tvg-id = "Premiere 5" tvg-logo = "https://i.ibb.co/nb8dcZZ/premiere.png" group-title = "Esporte", Premiere 5
+http://lb.kstream.org/aovivo/SD_PFC_5/video.m3u8?token=395e3d96b0e8c9f54235cbc0cfe129e9
+#EXTINF: -1 type = "stream" tvg-id = "Premiere 5 FHD" tvg-logo = "https://i.ibb.co/nb8dcZZ/premiere.png" group-title = "Esporte", Premiere 5 FHD
+http://lb.kstream.org/aovivo/FHD_PFC_5/video.m3u8?token=395e3d96b0e8c9f54235cbc0cfe129e9
+#EXTINF: -1 type = "stream" tvg-id = "Premiere 5 HD" tvg-logo = "https://i.ibb.co/nb8dcZZ/premiere.png" group-title = "Esporte", Premiere 5 HD
+http://lb.kstream.org/aovivo/HD_PFC_5/video.m3u8?token=395e3d96b0e8c9f54235cbc0cfe129e9
+#EXTINF: -1 type = "stream" tvg-id = "Premiere 5 HD [Alter]" tvg-logo = "https://i.ibb.co/nb8dcZZ/premiere.png" group-title = "Esporte" , Premiere 5 HD [Alter]
+http://lb.kstream.org/aovivo/HD_PFC_5_ALTER/video.m3u8?token=395e3d96b0e8c9f54235cbc0cfe129e9
+#EXTINF: -1 type = "stream" tvg-id = "Premiere 6" tvg-logo = "https://i.ibb.co/nb8dcZZ/premiere.png" group-title = "Esporte", Premiere 6
+http://lb.kstream.org/aovivo/SD_PFC_6/video.m3u8?token=395e3d96b0e8c9f54235cbc0cfe129e9
+#EXTINF: -1 type = "stream" tvg-id = "Premiere 6 FHD" tvg-logo = "https://i.ibb.co/nb8dcZZ/premiere.png" group-title = "Esporte", Premiere 6 FHD
+http://lb.kstream.org/aovivo/FHD_PFC_6/video.m3u8?token=395e3d96b0e8c9f54235cbc0cfe129e9
+#EXTINF: -1 type = "stream" tvg-id = "Premiere 6 HD" tvg-logo = "https://i.ibb.co/nb8dcZZ/premiere.png" group-title = "Esporte", Premiere 6 HD
+http://lb.kstream.org/aovivo/HD_PFC_6/video.m3u8?token=395e3d96b0e8c9f54235cbc0cfe129e9
+#EXTINF: -1 type = "stream" tvg-id = "Premiere 6 HD [Alter]" tvg-logo = "https://i.ibb.co/nb8dcZZ/premiere.png" group-title = "Esporte" , Premiere 6 HD [Alter]
+http://lb.kstream.org/aovivo/HD_PFC_6_ALTER/video.m3u8?token=395e3d96b0e8c9f54235cbc0cfe129e9
+#EXTINF: -1 type = "stream" tvg-id = "Premiere 7" tvg-logo = "https://i.ibb.co/nb8dcZZ/premiere.png" group-title = "Esporte", Premiere 7
+http://lb.kstream.org/aovivo/SD_PFC_7/video.m3u8?token=395e3d96b0e8c9f54235cbc0cfe129e9
+#EXTINF: -1 type = "stream" tvg-id = "Premiere 7 FHD" tvg-logo = "https://i.ibb.co/nb8dcZZ/premiere.png" group-title = "Esporte", Premiere 7 FHD
+http://lb.kstream.org/aovivo/FHD_PFC_7/video.m3u8?token=395e3d96b0e8c9f54235cbc0cfe129e9
+#EXTINF: -1 type = "stream" tvg-id = "Premiere 7 HD" tvg-logo = "https://i.ibb.co/nb8dcZZ/premiere.png" group-title = "Esporte", Premiere 7 HD
+http://lb.kstream.org/aovivo/HD_PFC_7/video.m3u8?token=395e3d96b0e8c9f54235cbc0cfe129e9
+#EXTINF: -1 type = "stream" tvg-id = "Premiere 7 HD [Alter]" tvg-logo = "https://i.ibb.co/nb8dcZZ/premiere.png" group-title = "Esporte" , Premiere 7 HD [Alter]
+http://lb.kstream.org/aovivo/HD_PFC_7_ALTER/video.m3u8?token=395e3d96b0e8c9f54235cbc0cfe129e9
+#EXTINF: -1 type = "stream" tvg-id = "Premiere 8" tvg-logo = "https://i.ibb.co/nb8dcZZ/premiere.png" group-title = "Esporte", Premiere 8
+http://lb.kstream.org/aovivo/SD_PFC_8/video.m3u8?token=395e3d96b0e8c9f54235cbc0cfe129e9
+#EXTINF: -1 type = "stream" tvg-id = "Premiere Clubes" tvg-logo = "https://i.ibb.co/nb8dcZZ/premiere.png" group-title = "Esporte", Premiere Clubes
+http://lb.kstream.org/aovivo/SD_PFC_CLUBES/video.m3u8?token=395e3d96b0e8c9f54235cbc0cfe129e9
+#EXTINF: -1 type = "stream" tvg-id = "Premiere Clubes FHD" tvg-logo = "https://i.ibb.co/nb8dcZZ/premiere.png" group-title = "Esporte", Premiere Clubes FHD
+http://lb.kstream.org/aovivo/FHD_PFC_CLUBES/video.m3u8?token=395e3d96b0e8c9f54235cbc0cfe129e9
+#EXTINF: -1 type = "stream" tvg-id = "Premiere Clubes HD" tvg-logo = "https://i.ibb.co/nb8dcZZ/premiere.png" group-title = "Esporte", Premiere Clubes HD
+http://lb.kstream.org/aovivo/HD_PFC_CLUBES/video.m3u8?token=395e3d96b0e8c9f54235cbc0cfe129e9
+#EXTINF: -1 type = "stream" tvg-id = "Premiere Clubes HD [Alter]" tvg-logo = "https://i.ibb.co/nb8dcZZ/premiere.png" group-title = "Esporte" , Premiere Clubes HD [Alter]
+http://lb.kstream.org/aovivo/HD_PFC_CLUBES_ALTER/video.m3u8?token=395e3d96b0e8c9f54235cbc0cfe129e9
+#EXTINF: -1 type = "stream" tvg-id = "Primebox Brasil" tvg-logo = "https://i.ibb.co/RPgYRF4/primeboxbrazil.png" group-title = "Filme e Serie", Primebox Brasil
+http://lb.kstream.org/aovivo/SD_PRIMEBOX_BRASIL/video.m3u8?token=395e3d96b0e8c9f54235cbc0cfe129e9
+#EXTINF: -1 type = "stream" tvg-id = "Primebox Brasil FHD" tvg-logo = "https://i.ibb.co/RPgYRF4/primeboxbrazil.png" group-title = "Filme e Serie", Primebox Brasil FHD
+http://lb.kstream.org/aovivo/FHD_PRIMEBOX/video.m3u8?token=395e3d96b0e8c9f54235cbc0cfe129e9
+#EXTINF: -1 type = "stream" tvg-id = "HD privado" tvg-logo = "https://www.pasjatv.pl/files/tv/photo/max/152302558372_logo_privatetvhd_ok1.png" group-title = " Adulto ", HD privado
+http://lb.kstream.org/aovivo/HD_PRIVATE/video.m3u8?token=395e3d96b0e8c9f54235cbc0cfe129e9
+#EXTINF: -1 type = "stream" tvg-id = "RBI" tvg-logo = "http://2.bp.blogspot.com/-3cIo6Qut0C0/VFdFKBnuRCI/AAAAAAAAAvw/dW9n2GQ9-WY/s320/Canal%2BRBI % 2B-% 2BMIX% 2BTV.png "group-title =" TV Aberta ", RBI
+http://lb.kstream.org/aovivo/SD_RBI/video.m3u8?token=395e3d96b0e8c9f54235cbc0cfe129e9
+#EXTINF: -1 type = "stream" tvg-id = "REDLIGHT" tvg-logo = "https://i.ibb.co/6m9LJ8x/Red-Light-HD-630x355.png" group-title = "Adulto ",LUZ VERMELHA
+http://lb.kstream.org/aovivo/XXX_REDLIGHT/video.m3u8?token=395e3d96b0e8c9f54235cbc0cfe129e9
+#EXTINF: -1 type = "stream" tvg-id = "RIT" tvg-logo = "https://i.ibb.co/m41x063/rit.png" group-title = "TV Aberta", RIT
+http://lb.kstream.org/aovivo/SD_RIT/video.m3u8?token=395e3d96b0e8c9f54235cbc0cfe129e9
+#EXTINF: -1 type = "stream" tvg-id = "Gravar" tvg-logo = "https://i.ibb.co/NyZ0TgN/recordtv.png" group-title = "TV Aberta", Gravar
+http://lb.kstream.org/aovivo/SD_RECORD/video.m3u8?token=395e3d96b0e8c9f54235cbc0cfe129e9
+#EXTINF: -1 type = "stream" tvg-id = "Gravar BA HD" tvg-logo = "https://i.ibb.co/NyZ0TgN/recordtv.png" group-title = "TV Aberta", Gravar BA HD
+http://lb.kstream.org/aovivo/HD_RECORD_BA/video.m3u8?token=395e3d96b0e8c9f54235cbc0cfe129e9
+#EXTINF: -1 type = "stream" tvg-id = "Gravar DF ​​HD" tvg-logo = "https://i.ibb.co/NyZ0TgN/recordtv.png" group-title = "TV Aberta", Gravar DF HD
+http://lb.kstream.org/aovivo/HD_RECORD_DF/video.m3u8?token=395e3d96b0e8c9f54235cbc0cfe129e9
+#EXTINF: -1 type = "stream" tvg-id = "Gravar FHD" tvg-logo = "https://i.ibb.co/NyZ0TgN/recordtv.png" group-title = "TV Aberta", Gravar FHD
+http://lb.kstream.org/aovivo/FHD_RECORD/video.m3u8?token=395e3d96b0e8c9f54235cbc0cfe129e9
+#EXTINF: -1 type = "stream" tvg-id = "Gravar HD" tvg-logo = "https://i.ibb.co/NyZ0TgN/recordtv.png" group-title = "TV Aberta", Gravar HD
+http://lb.kstream.org/aovivo/HD_RECORD/video.m3u8?token=395e3d96b0e8c9f54235cbc0cfe129e9
+#EXTINF: -1 type = "stream" tvg-id = "Gravar HD [Alter]" tvg-logo = "https://i.ibb.co/NyZ0TgN/recordtv.png" group-title = "TV Aberta" , Gravar HD [Alter]
+http://lb.kstream.org/aovivo/HD_RECORD_ALTER/video.m3u8?token=395e3d96b0e8c9f54235cbc0cfe129e9
+#EXTINF: -1 type = "stream" tvg-id = "Gravar MG HD" tvg-logo = "https://i.ibb.co/NyZ0TgN/recordtv.png" group-title = "TV Aberta", Gravar MG HD
+http://lb.kstream.org/aovivo/HD_RECORD_MG/video.m3u8?token=395e3d96b0e8c9f54235cbc0cfe129e9
+#EXTINF: -1 type = "stream" tvg-id = "Record News" tvg-logo = "https://i.ibb.co/gjYJCG8/recordnewsb.png" group-title = "Notícia", Record News
+http://lb.kstream.org/aovivo/SD_RECORD_NEWS/video.m3u8?token=395e3d96b0e8c9f54235cbc0cfe129e9
+#EXTINF: -1 type = "stream" tvg-id = "Record News FHD" tvg-logo = "https://i.ibb.co/gjYJCG8/recordnewsb.png" group-title = "Notícia", Record News FHD
+http://lb.kstream.org/aovivo/FHD_RECORDNEWS/video.m3u8?token=395e3d96b0e8c9f54235cbc0cfe129e9
+#EXTINF: -1 type = "stream" tvg-id = "Record News HD" tvg-logo = "https://i.ibb.co/gjYJCG8/recordnewsb.png" group-title = "Notícia", Record News HD
+http://lb.kstream.org/aovivo/HD_RECORD_NEWS/video.m3u8?token=395e3d96b0e8c9f54235cbc0cfe129e9
+#EXTINF: -1 type = "stream" tvg-id = "Record News HD [Alter]" tvg-logo = "https://i.ibb.co/gjYJCG8/recordnewsb.png" group-title = "Notícia" , Record News HD [Alter]
+http://lb.kstream.org/aovivo/HD_RECORDNEWS_ALTER/video.m3u8?token=395e3d96b0e8c9f54235cbc0cfe129e9
+#EXTINF: -1 type = "stream" tvg-id = "Gravar RJ HD" tvg-logo = "https://i.ibb.co/NyZ0TgN/recordtv.png" group-title = "TV Aberta", Gravar RJ HD
+http://lb.kstream.org/aovivo/HD_RECORD_RJ/video.m3u8?token=395e3d96b0e8c9f54235cbc0cfe129e9
+#EXTINF: -1 type = "stream" tvg-id = "Gravar RS HD" tvg-logo = "https://i.ibb.co/NyZ0TgN/recordtv.png" group-title = "TV Aberta", Gravar RS HD
+http://lb.kstream.org/aovivo/HD_RECORD_RS/video.m3u8?token=395e3d96b0e8c9f54235cbc0cfe129e9
+#EXTINF: -1 type = "stream" tvg-id = "Record SP" tvg-logo = "https://i.ibb.co/G3T4Vxj/recordtvsp.png" group-title = "TV Aberta", Record SP
+http://lb.kstream.org/aovivo/SD_RECORD_SP/video.m3u8?token=395e3d96b0e8c9f54235cbc0cfe129e9
+#EXTINF: -1 type = "stream" tvg-id = "Gravar SP HD" tvg-logo = "https://i.ibb.co/G3T4Vxj/recordtvsp.png" group-title = "TV Aberta", Gravar SP HD
+http://lb.kstream.org/aovivo/HD_RECORD_SP/video.m3u8?token=395e3d96b0e8c9f54235cbc0cfe129e9
