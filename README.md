@@ -303,3 +303,49 @@ http://lb.kstream.org/aovivo/HD_FOX_PREMIUM_1_ALTER/video.m3u8?token=395e3d96b0e
 http://lb.kstream.org/aovivo/HD_FOX_PREMIUM_2/video.m3u8?token=395e3d96b0e8c9f54235cbc0cfe129e9
 #EXTINF: -1 type = "stream" tvg-id = "Fox Premium 2 HD [Alter]" tvg-logo = "https://i.ibb.co/ygC4V8r/foxpremium2b.png" group-title = "Filme e Serie ", Fox Premium 2 HD [Alter]
 http://lb.kstream.org/aovivo/HD_FOX_PREMIUM_2_ALTER/video.m3u8?token=395e3d96b0e8c9f54235cbc0cfe129e9
+#EXTINF: -1 type = "stream" tvg-id = "Fox Sports HD" tvg-logo = "https://i.ibb.co/sPwqG58/foxsports.png" group-title = "Esporte", Fox Sports HD
+http://lb.kstream.org/aovivo/HD_FOX_SPORTS_1/video.m3u8?token=395e3d96b0e8c9f54235cbc0cfe129e9
+#EXTINF: -1 type = "stream" tvg-id = "Fox Sports HD [Alter]" tvg-logo = "https://i.ibb.co/sPwqG58/foxsports.png" group-title = "Esporte" , Fox Sports HD [Alter]
+http://lb.kstream.org/aovivo/HD_FOX_SPORTS_1_ALTER/video.m3u8?token=395e3d96b0e8c9f54235cbc0cfe129e9
+#EXTINF: -1 type = "stream" tvg-id = "Futura" tvg-logo = "https://i.ibb.co/K6zprYB/futura.png" group-title = "Documentário", Futura
+http://lb.kstream.org/aovivo/SD_FUTURA/video.m3u8?token=395e3d96b0e8c9f54235cbc0cfe129e9
+#EXTINF: -1 type = "stream" tvg-id = "Futura HD" tvg-logo = "https://i.ibb.co/K6zprYB/futura.png" group-title = "Documentário", Futura HD
+http://lb.kstream.org/aovivo/HD_FUTURA/video.m3u8?token=395e3d96b0e8c9f54235cbc0cfe129e9
+#EXTINF: -1 type = "stream" tvg-id = "GNT" tvg-logo = "https://i.ibb.co/DDW7Xcz/gnt.png" group-title = "Variedade", GNT
+http://lb.kstream.org/aovivo/SD_GNT/video.m3u8?token=395e3d96b0e8c9f54235cbc0cfe129e9
+#EXTINF: -1 type = "stream" tvg-id = "GNT HD" tvg-logo = "https://i.ibb.co/DDW7Xcz/gnt.png" group-title = "Variedade", GNT HD
+http://lb.kstream.org/aovivo/HD_GNT/video.m3u8?token=395e3d96b0e8c9f54235cbc0cfe129e9
+#EXTINF: -1 type = "stream" tvg-id = "GNT HD [Alter]" tvg-logo = "https://i.ibb.co/DDW7Xcz/gnt.png" group-title = "Variedade", GNT HD [Alter]
+http://lb.kstream.org/aovivo/HD_GNT_ALTER/video.m3u8?token=395e3d96b0e8c9f54235cbc0cfe129e9
+#EXTINF: -1 type = "stream" tvg-id = "Globo Brasília" tvg-logo = "https://i.ibb.co/XFNf7mT/globodf.png" group-title = "TV Aberta", Globo Brasília
+http://lb.kstream.org/aovivo/SD_GLOBO_BRASILIA/video.m3u8?token=395e3d96b0e8c9f54235cbc0cfe129e9
+#EXTINF: -1 type = "stream" tvg-id = "Globo Brasília HD" tvg-logo = "https://i.ibb.co/XFNf7mT/globodf.png" group-title = "TV Aberta", Globo Brasilia HD
+http://lb.kstream.org/aovivo/HD_GLOBO_BRASILIA/video.m3u8?token=395e3d96b0e8c9f54235cbc0cfe129e9
+#EXTINF: -1 type = "stream" tvg-id = "Globo EPTV Campinas" tvg-logo = "https://i.ibb.co/MNLydJD/eptvcp.png" group-title = "TV Aberta", Globo EPTV Campinas
+http://lb.kstream.org/aovivo/SD_GLOBO_EPTV_CAMPINAS/video.m3u8?token=395e3d96b0e8c9f54235cbc0cfe129e9
+#EXTINF: -1 type = "stream" tvg-id = "Globo EPTV Campinas HD" tvg-logo = "https://i.ibb.co/MNLydJD/eptvcp.png" group-title = "TV Aberta", Globo EPTV Campinas HD
+http://lb.kstream.org/aovivo/HD_GLOBO_EPTV_CAMPINAS/video.m3u8?token=395e3d96b0e8c9f54235cbc0cfe129e9
+#EXTINF: -1 type = "stream" tvg-id = "Globo EPTV Central" tvg-logo = "https://i.ibb.co/wdXPf5c/eptv.png" group-title = "TV Aberta", Globo EPTV Central
+http://lb.kstream.org/aovivo/SD_GLOBO_EPTV_CENTRAL/video.m3u8?token=395e3d96b0e8c9f54235cbc0cfe129e9
+#EXTINF: -1 type = "stream" tvg-id = "Globo EPTV Ribeirão Preto" tvg-logo = "https://i.ibb.co/26dt3GJ/eptvrp.png" group-title = "TV Aberta", Globo EPTV Ribeirão Preto
+http://lb.kstream.org/aovivo/SD_GLOBO_RIBEIRAO_PRETO/video.m3u8?token=395e3d96b0e8c9f54235cbc0cfe129e9
+#EXTINF: -1 type = "stream" tvg-id = "Globo EPTV Ribeirão Preto HD" tvg-logo = "https://i.ibb.co/26dt3GJ/eptvrp.png" group-title = "TV Aberta" , Globo EPTV Ribeirão Preto HD
+http://lb.kstream.org/aovivo/HD_GLOBO_RIBEIRAO_PRETO/video.m3u8?token=395e3d96b0e8c9f54235cbc0cfe129e9
+#EXTINF: -1 type = "stream" tvg-id = "Globo EPTV São Carlos" tvg-logo = "https://i.ibb.co/wdXPf5c/eptv.png" group-title = "TV Aberta", Globo EPTV São Carlos
+http://lb.kstream.org/aovivo/SD_GLOBO_SAO_CARLOS/video.m3u8?token=395e3d96b0e8c9f54235cbc0cfe129e9
+#EXTINF: -1 type = "stream" tvg-id = "Globo EPTV Sul Minas" tvg-logo = "https://i.ibb.co/wdXPf5c/eptv.png" group-title = "TV Aberta", Globo EPTV Sul Minas
+http://lb.kstream.org/aovivo/SD_GLOBO_EPTV_SUL_MINAS/video.m3u8?token=395e3d96b0e8c9f54235cbc0cfe129e9
+#EXTINF: -1 type = "stream" tvg-id = "Globo FHD" tvg-logo = "https://i.ibb.co/frYrFNM/globo.png" group-title = "TV Aberta", Globo FHD
+http://lb.kstream.org/aovivo/FHD_GLOBO_SP/video.m3u8?token=395e3d96b0e8c9f54235cbc0cfe129e9
+#EXTINF: -1 type = "stream" tvg-id = "Globo Gazeta HD" tvg-logo = "https://i.ibb.co/X3Q2bgf/tvgazeta.png" group-title = "TV Aberta", Globo Gazeta HD
+http://lb.kstream.org/aovivo/HD_GAZETA_ES/video.m3u8?token=395e3d96b0e8c9f54235cbc0cfe129e9
+#EXTINF: -1 type = "stream" tvg-id = "Globo Inter TV Cabugi" tvg-logo = "https://i.ibb.co/8YHP162/intertv.png" group-title = "TV Aberta", Globo Inter TV Cabugi
+http://lb.kstream.org/aovivo/SD_GLOBO_RN/video.m3u8?token=395e3d96b0e8c9f54235cbc0cfe129e9
+#EXTINF: -1 type = "stream" tvg-id = "Globo InterTV Grande Minas" tvg-logo = "https://i.ibb.co/8YHP162/intertv.png" group-title = "TV Aberta", Globo InterTV Grande Minas
+http://lb.kstream.org/aovivo/SD_GLOBO_INTERTV_GRANDE_MINAS/video.m3u8?token=395e3d96b0e8c9f54235cbc0cfe129e9
+#EXTINF: -1 type = "stream" tvg-id = "Globo InterTV Serra Mar" tvg-logo = "https://i.ibb.co/8YHP162/intertv.png" group-title = "TV Aberta", Globo InterTV Serra Mar
+http://lb.kstream.org/aovivo/SD_GLOBO_INTERTV_SERRA_MAR/video.m3u8?token=395e3d96b0e8c9f54235cbc0cfe129e9
+#EXTINF: -1 type = "stream" tvg-id = "Globo Minas" tvg-logo = "https://i.ibb.co/frYrFNM/globo.png" group-title = "TV Aberta", Globo Minas
+http://lb.kstream.org/aovivo/SD_GLOBO_MINAS/video.m3u8?token=395e3d96b0e8c9f54235cbc0cfe129e9
+#EXTINF: -1 type = "stream" tvg-id = "Globo Minas FHD" tvg-logo = "https://i.ibb.co/frYrFNM/globo.png" group-title = "TV Aberta", Globo Minas FHD
+http://lb.kstream.org/aovivo/FHD_GLOBO_MG/video.m3u8?token=395e3d96b0e8c9f54235cbc0cfe129e9
