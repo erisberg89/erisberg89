@@ -606,8 +606,6 @@ http://lb.kstream.org/aovivo/HD_PFC_CLUBES_ALTER/video.m3u8?token=395e3d96b0e8c9
 http://lb.kstream.org/aovivo/SD_PRIMEBOX_BRASIL/video.m3u8?token=395e3d96b0e8c9f54235cbc0cfe129e9
 #EXTINF: -1 type = "stream" tvg-id = "Primebox Brasil FHD" tvg-logo = "https://i.ibb.co/RPgYRF4/primeboxbrazil.png" group-title = "Filme e Serie", Primebox Brasil FHD
 http://lb.kstream.org/aovivo/FHD_PRIMEBOX/video.m3u8?token=395e3d96b0e8c9f54235cbc0cfe129e9
-#EXTINF: -1 type = "stream" tvg-id = "HD privado" tvg-logo = "https://www.pasjatv.pl/files/tv/photo/max/152302558372_logo_privatetvhd_ok1.png" group-title = " Adulto ", HD privado
-http://lb.kstream.org/aovivo/HD_PRIVATE/video.m3u8?token=395e3d96b0e8c9f54235cbc0cfe129e9
 #EXTINF: -1 type = "stream" tvg-id = "RBI" tvg-logo = "http://2.bp.blogspot.com/-3cIo6Qut0C0/VFdFKBnuRCI/AAAAAAAAAvw/dW9n2GQ9-WY/s320/Canal%2BRBI % 2B-% 2BMIX% 2BTV.png "group-title =" TV Aberta ", RBI
 http://lb.kstream.org/aovivo/SD_RBI/video.m3u8?token=395e3d96b0e8c9f54235cbc0cfe129e9
 #EXTINF: -1 type = "stream" tvg-id = "RIT" tvg-logo = "https://i.ibb.co/m41x063/rit.png" group-title = "TV Aberta", RIT
