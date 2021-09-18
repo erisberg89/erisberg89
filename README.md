@@ -60,7 +60,24 @@ http://lb.kstream.org/aovivo/HD_BAND_CAMPINAS/video.m3u8?token=395e3d96b0e8c9f54
 http://lb.kstream.org/aovivo/HD_BAND/video.m3u8?token=395e3d96b0e8c9f54235cbc0cfe129e9
 #EXTINF: -1 type = "stream" tvg-id = "Band News" tvg-logo = "https://i.ibb.co/tHgNtbw/bandnews.png" group-title = "Notícia", Band News
 http://lb.kstream.org/aovivo/SD_BAND_NEWS/video.m3u8?token=395e3d96b0e8c9f54235cbc0cfe129e9
-
+#EXTINF: -1 type = "stream" tvg-id = "RedeTV!" tvg-logo = "https://i.ibb.co/wR1cmgM/redetv.png" group-title = "TV Aberta", RedeTV!
+http://lb.kstream.org/aovivo/SD_REDETV/video.m3u8?token=395e3d96b0e8c9f54235cbc0cfe129e9
+#EXTINF: -1 type = "stream" tvg-id = "RedeTV! FHD" tvg-logo = "https://i.ibb.co/wR1cmgM/redetv.png" group-title = "TV Aberta", RedeTV ! FHD
+http://lb.kstream.org/aovivo/FULLHD_REDETV/video.m3u8?token=395e3d96b0e8c9f54235cbc0cfe129e9
+#EXTINF: -1 type = "stream" tvg-id = "RedeTV! HD" tvg-logo = "https://i.ibb.co/wR1cmgM/redetv.png" group-title = "TV Aberta", RedeTV ! HD
+http://lb.kstream.org/aovivo/HD_REDETV/video.m3u8?token=395e3d96b0e8c9f54235cbc0cfe129e9
+#EXTINF: -1 type = "stream" tvg-id = "RedeTV! HD [Alter]" tvg-logo = "https://i.ibb.co/wR1cmgM/redetv.png" group-title = "TV Aberta "RedeTV! HD [Alter]
+http://lb.kstream.org/aovivo/HD_REDETV_ALTER/video.m3u8?token=395e3d96b0e8c9f54235cbc0cfe129e9
+#EXTINF: -1 type = "stream" tvg-id = "SBT" tvg-logo = "https://i.ibb.co/2yZqPRz/sbt.png" group-title = "TV Aberta", SBT
+http://lb.kstream.org/aovivo/SD_SBT/video.m3u8?token=395e3d96b0e8c9f54235cbc0cfe129e9
+#EXTINF: -1 type = "stream" tvg-id = "SBT FHD" tvg-logo = "https://i.ibb.co/2yZqPRz/sbt.png" group-title = "TV Aberta", SBT FHD
+http://lb.kstream.org/aovivo/FHD_SBT/video.m3u8?token=395e3d96b0e8c9f54235cbc0cfe129e9
+#EXTINF: -1 type = "stream" tvg-id = "SBT HD" tvg-logo = "https://i.ibb.co/2yZqPRz/sbt.png" group-title = "TV Aberta", SBT HD
+http://lb.kstream.org/aovivo/HD_SBT/video.m3u8?token=395e3d96b0e8c9f54235cbc0cfe129e9
+#EXTINF: -1 type = "stream" tvg-id = "SBT HD [Alter]" tvg-logo = "https://i.ibb.co/2yZqPRz/sbt.png" group-title = "TV Aberta" , SBT HD [Alter]
+http://lb.kstream.org/aovivo/HD_SBT_ALTER/video.m3u8?token=395e3d96b0e8c9f54235cbc0cfe129e9
+#EXTINF: -1 type = "stream" tvg-id = "SBT Nordeste FHD" tvg-logo = "https://i.ibb.co/2yZqPRz/sbt.png" group-title = "TV Aberta", SBT Nordeste FHD
+http://lb.kstream.org/aovivo/FHD_SBT_NORDESTE/video.m3u8?token=395e3d96b0e8c9f54235cbc0cfe129e9
 http://lb.kstream.org/aovivo/FHD_BAND_NEWS/video.m3u8?token=395e3d96b0e8c9f54235cbc0cfe129e9
 #EXTINF: -1 type = "stream" tvg-id = "Band News HD" tvg-logo = "https://i.ibb.co/tHgNtbw/bandnews.png" group-title = "Notícia", Band News HD
 http://lb.kstream.org/aovivo/HD_BAND_NEWS/video.m3u8?token=395e3d96b0e8c9f54235cbc0cfe129e9
