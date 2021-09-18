@@ -102,6 +102,8 @@ http://lb.kstream.org/aovivo/SD_CANCAO_NOVA/video.m3u8?token=395e3d96b0e8c9f5423
 http://lb.kstream.org/aovivo/SD_CARTOON_NETWORK/video.m3u8?token=395e3d96b0e8c9f54235cbc0cfe129e9
 #EXTINF: -1 type = "stream" tvg-id = "Cartoon Network FHD" tvg-logo = "https://i.ibb.co/r0mmt10/cartoonnetworkb.png" group-title = "Infantil", Cartoon Network FHD
 http://lb.kstream.org/aovivo/FHD_CARTOON_NETWORK/video.m3u8?token=395e3d96b0e8c9f54235cbc0cfe129e9
+#EXTINF: -1 type = "stream" tvg-id = "Toon Cast" tvg-logo = "https://upload.wikimedia.org/wikipedia/commons/6/66/Tooncast.png" group-title = "INFANTIL", Toon Cast
+https://vsd66.mycdn.me/hls/1502394386987.m3u8/sig/StBQzF_7Ilo/expires/1632058280968/srcIp/177.87.13.188/clientType/0/srcAg/CHROME_YA_MOBILE/mid/3156482793003/1502394386987_high/index.m3u8
 #EXTINF: -1 type = "stream" tvg-id = "Cartoon Network HD" tvg-logo = "https://i.ibb.co/r0mmt10/cartoonnetworkb.png" group-title = "Infantil", Cartoon Network HD
 http://lb.kstream.org/aovivo/HD_CARTOON_NETWORK/video.m3u8?token=395e3d96b0e8c9f54235cbc0cfe129e9
 #EXTINF: -1 type = "stream" tvg-id = "Cartoon Network HD [Alter]" tvg-logo = "https://i.ibb.co/r0mmt10/cartoonnetworkb.png" group-title = "Infantil" , Cartoon Network HD [Alter]
