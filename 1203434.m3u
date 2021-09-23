@@ -336,10 +336,6 @@ http://lb.kstream.org/aovivo/SD_GNT/video.m3u8?token=395e3d96b0e8c9f54235cbc0cfe
 http://lb.kstream.org/aovivo/HD_GNT/video.m3u8?token=395e3d96b0e8c9f54235cbc0cfe129e9
 #EXTINF: -1 type = "stream" tvg-id = "GNT HD [Alter]" tvg-logo = "https://i.ibb.co/DDW7Xcz/gnt.png" group-title = "Variedade", GNT HD [Alter]
 http://lb.kstream.org/aovivo/HD_GNT_ALTER/video.m3u8?token=395e3d96b0e8c9f54235cbc0cfe129e9
-#EXTINF: -1 type = "stream" tvg-id = "Globo Brasília" tvg-logo = "https://i.ibb.co/XFNf7mT/globodf.png" group-title = "TV Aberta", Globo Brasília
-http://lb.kstream.org/aovivo/SD_GLOBO_BRASILIA/video.m3u8?token=395e3d96b0e8c9f54235cbc0cfe129e9
-#EXTINF: -1 type = "stream" tvg-id = "Globo Brasília HD" tvg-logo = "https://i.ibb.co/XFNf7mT/globodf.png" group-title = "TV Aberta", Globo Brasilia HD
-http://lb.kstream.org/aovivo/HD_GLOBO_BRASILIA/video.m3u8?token=395e3d96b0e8c9f54235cbc0cfe129e9
 #EXTINF: -1 type = "stream" tvg-id = "Globo EPTV Campinas" tvg-logo = "https://i.ibb.co/MNLydJD/eptvcp.png" group-title = "TV Aberta", Globo EPTV Campinas
 http://lb.kstream.org/aovivo/SD_GLOBO_EPTV_CAMPINAS/video.m3u8?token=395e3d96b0e8c9f54235cbc0cfe129e9
 #EXTINF: -1 type = "stream" tvg-id = "Globo EPTV Campinas HD" tvg-logo = "https://i.ibb.co/MNLydJD/eptvcp.png" group-title = "TV Aberta", Globo EPTV Campinas HD
